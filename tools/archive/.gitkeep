@@ -1,0 +1,2 @@
+# Este archivo mantiene el directorio archive/ en git
+# Los archivos .bin se ignoran por .gitignore

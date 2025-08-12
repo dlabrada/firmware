@@ -1,0 +1,5 @@
+# Ignorar archivos de firmware archivados
+*.bin
+
+# Mantener el directorio pero ignorar su contenido
+!.gitkeep
